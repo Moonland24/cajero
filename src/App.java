@@ -78,6 +78,7 @@ public class App {
         return saldo;
     };
 
+    // Esta es una función que se encarga de retirar dinero de la cuenta
     public static int RetirarDinero(int saldo) {
         Scanner scanner = new Scanner(System.in);
 
